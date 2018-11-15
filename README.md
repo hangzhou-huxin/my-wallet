@@ -1,0 +1,1 @@
+根据 https://github.com/ethereum/mist-ui-reac 进行简化
